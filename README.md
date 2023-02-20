@@ -5,9 +5,9 @@
 
 Проект можна розгорнути за допомогою Docker
 Для цього в корні проекту потрібно виконати команду
-<strong>./vendor/bin/sail up</strong>
+<br/><strong>./vendor/bin/sail up</strong>
 
 Якщо Немає 
-<strong>php artisan serve</strong>
+<br/><strong>php artisan serve</strong>
 
 
